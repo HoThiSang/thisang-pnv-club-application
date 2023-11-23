@@ -1,0 +1,63 @@
+.main-form{
+    line-height: 1.8em;
+}
+#form-main{
+    margin: 30px;
+    width: 40em;
+    height: 30em;
+    border:  1px dashed orangered;
+    padding-left: 35px;
+    
+}
+#title-name{
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+.form-group{
+    margin-top: 20px;
+}
+.form-group
+.radio-item{
+    margin-right: 10px;
+}
+#inputName{
+    width: 80%;
+    height: 100%;
+    margin-left: 70px;
+}
+#club{
+    width: 80%;
+    height: 80%;
+   margin-left: 70px;
+}
+.last-radio{
+    display: block;
+}
+.form-check-main{
+    margin-left: 30px;
+    padding-top: 0;
+    position: relative;
+}
+.form-check-main .row{
+    margin-left: 90px;
+    padding-top: 5px;
+    
+}
+#form-check-main-item{
+    margin-left: 10px;
+}
+.submit{
+    width: 80%;
+    margin: 30px 0 0 20px;
+    background-color: rgb(223, 223, 115);
+}
+.title-check{
+    position: absolute;
+   
+}
+.result{
+    align-content:center;
+    border: 1px dashed orangered;
+    width: 40%; margin-left: 10%;
+}
